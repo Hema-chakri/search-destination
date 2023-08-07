@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-item {
+  list-style: none;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.items-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
